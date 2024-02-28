@@ -1,0 +1,115 @@
+{
+    "propertySettings.phoneIMEI": "385544272043928",
+    "propertySettings.phoneIMSI": "385544272043928",
+    "propertySettings.phoneSimSerial": "3658040723",
+    "propertySettings.phoneAndroidId": "7f8ee494d289ebb4",
+    "propertySettings.phoneModel": "PFEM10",
+    "propertySettings.phoneManufacturer": "OPPO",
+    "propertySettings.macAddress": "IhZlkH75GMoQVKR",
+    "statusSettings.sharedApplications": "C:/Users/VP01/Documents/XuanZhi9/Applications",
+    "statusSettings.sharedPictures": "C:/Users/VP01/Documents/XuanZhi9/Pictures",
+    "statusSettings.sharedMisc": "C:/Users/VP01/Documents/XuanZhi9/Misc",
+    "statusSettings.playerName": "LDPlayer 2",
+    "basicSettings.left": 1207,
+    "basicSettings.top": 60,
+    "basicSettings.width": 484,
+    "basicSettings.height": 862,
+    "basicSettings.autoRun": false,
+    "basicSettings.rootMode": true,
+    "statusSettings.closeOption": 1,
+    "basicSettings.verticalSync": false,
+    "basicSettings.heightFrameRate": false,
+    "basicSettings.adbDebug": 1,
+    "advancedSettings.resolution": {
+        "width": 540,
+        "height": 960
+    },
+    "advancedSettings.resolutionDpi": 240,
+    "advancedSettings.cpuCount": 2,
+    "advancedSettings.memorySize": 3072,
+    "propertySettings.phoneNumber": "3658040723",
+    "basicSettings.autoRotate": true,
+    "basicSettings.isForceLandscape": false,
+    "basicSettings.standaloneSysVmdk": false,
+    "basicSettings.lockWindow": false,
+    "advancedSettings.micphoneName": "",
+    "advancedSettings.speakerName": "",
+    "networkSettings.networkEnable": true,
+    "networkSettings.networkSwitching": false,
+    "networkSettings.networkStatic": false,
+    "networkSettings.networkAddress": "0.0.0.0",
+    "networkSettings.networkGateway": "0.0.0.0",
+    "networkSettings.networkSubnetMask": "255.255.255.0",
+    "networkSettings.networkDNS1": "8.8.8.8",
+    "networkSettings.networkDNS2": "8.8.4.4",
+    "networkSettings.networkInterface": "",
+    "basicSettings.disableMouseFastOpt": false,
+    "basicSettings.cjztdisableMouseFastOpt_new": 0,
+    "basicSettings.HDRQuality": 0,
+    "basicSettings.qjcjdisableMouseFast": 1,
+    "basicSettings.fps": 60,
+    "basicSettings.astc": false,
+    "hotkeySettings.backKey": {
+        "modifiers": 0,
+        "key": 27
+    },
+    "hotkeySettings.homeKey": {
+        "modifiers": 0,
+        "key": 112
+    },
+    "hotkeySettings.appSwitchKey": {
+        "modifiers": 0,
+        "key": 113
+    },
+    "hotkeySettings.menuKey": {
+        "modifiers": 0,
+        "key": 114
+    },
+    "hotkeySettings.zoomInKey": {
+        "modifiers": 0,
+        "key": 115
+    },
+    "hotkeySettings.zoomOutKey": {
+        "modifiers": 0,
+        "key": 116
+    },
+    "hotkeySettings.bossKey": {
+        "modifiers": 2,
+        "key": 81
+    },
+    "hotkeySettings.shakeKey": {
+        "modifiers": 0,
+        "key": 120
+    },
+    "hotkeySettings.operationRecordKey": {
+        "modifiers": 0,
+        "key": 121
+    },
+    "hotkeySettings.fullScreenKey": {
+        "modifiers": 0,
+        "key": 122
+    },
+    "hotkeySettings.showMappingKey": {
+        "modifiers": 0,
+        "key": 123
+    },
+    "hotkeySettings.videoRecordKey": {
+        "modifiers": 0,
+        "key": 119
+    },
+    "hotkeySettings.mappingRecordKey": {
+        "modifiers": 0,
+        "key": 117
+    },
+    "hotkeySettings.keyboardModelKey": {
+        "modifiers": 2,
+        "key": 70
+    },
+    "basicSettings.realHeigh": 897,
+    "basicSettings.realWidth": 527,
+    "basicSettings.isForstStart": false,
+    "basicSettings.mulFsAddSize": 0,
+    "basicSettings.mulFsAutoSize": 2,
+    "basicSettings.rightToolBar": true,
+    "basicSettings.fsAutoSize": 2
+}

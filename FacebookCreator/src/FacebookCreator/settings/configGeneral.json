@@ -1,0 +1,19 @@
+{
+  "numberThread": 5,
+  "rdoNoProxy": true,
+  "rdoProxy": false,
+  "txtServer": "",
+  "txtPort": "",
+  "radioCustomizePass": false,
+  "txtPass": "",
+  "radioRandomPass": true,
+  "NumberPass": 8,
+  "cb2FA": false,
+  "radioRadomFullNameUs": true,
+  "radioCustomizeFullName": false,
+  "radioRadomFullNameVN": false,
+  "cbBoy": true,
+  "cbWonman": true,
+  "cbUpdateAvatar": false,
+  "txtFolderAvatar": ""
+}
